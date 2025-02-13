@@ -6,7 +6,7 @@
 /*   By: judcarra <judcarra@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/11 12:41:59 by judcarra          #+#    #+#             */
-/*   Updated: 2025/02/13 17:51:38 by judcarra         ###   ########.fr       */
+/*   Updated: 2025/02/13 18:09:23 by judcarra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,7 +63,7 @@ char	*ft_itoa(int n)
 	return (str);
 }
 
-int main(void)
+/*int main(void)
 {
 	int numbers[] = {0, 42, -42, 2147483647, -2147483648};
 	char *str;
@@ -77,4 +77,4 @@ int main(void)
 		i++;
 	}
 	return (0);
-}
+}*/
